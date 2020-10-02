@@ -14,7 +14,7 @@ function [confidencelimit] = 2D_NMCR(clust_1, clust_2)
 %clust_1: N1x2 matrix of N1 points attributed to cluster 1 with 2 double-precision values describing their positions in 2D space.
 %clust_2: N2x2 matrix of N2 points attributed to cluster 2 with 2 double-precision values describing their positions in 2D space.
 %
-%Requires the Statistics and Machine Learning Toolbox for chi2cdf.m and fminsearch.m
+%Requires the Statistics and Machine Learning Toolbox for chi2cdf.m and the Optimization toolbox for fminsearch.m
 %
 
 %%Version History
