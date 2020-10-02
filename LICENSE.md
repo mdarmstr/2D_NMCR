@@ -27,12 +27,10 @@ ACKNOWLEDGMENT OF COPYRIGHT
 Licensee acknowledges that the Licensed Work is protected by copyright and other intellectual property rights. Licensee acknowledges that University owns all rights in the Licensed Work.
 
 PUBLICATION
-All publications that are based on or utilize the Licensed work shall be cited appropriately using DOI: %%%, and include the following notice: 2D_NMCR.m was created by Michael D. Sorochan Armstrong and Dr. James Harynuk and used here under license from the University of Alberta; based on the original work available from https://github.com/mdarmstr/2D_NMCR.
+All publications that are based on or utilize the Licensed work shall be cited appropriately using DOI: 10.5281/zenodo.4064280 and include the following notice: 2D_NMCR.m was created by Michael D. Sorochan Armstrong and Dr. James Harynuk and used here under license from the University of Alberta; based on the original work available from https://github.com/mdarmstr/2D_NMCR.
 
 DISCLAIMER OF WARRANTIES
 6.1 Except for the representations and warranties expressly set forth herein, University disclaims all other warranties, expressed or implied. In particular, but without limitation, the Licensed Work is provided by University WITHOUT WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, EITHER EXPRESSED OR IMPLIED.
-
-6.2 LICENSEE ACKNOWLEDGES THAT ANY LECO *.PEG FILES USED FOR THE PERMITTED PURPOSE MAY INVOLVE THIRD PARTY INTELLECTUAL PROPERTY RIGHTS. THE LICENSEE MAY REQUIRE LICENSES FROM THIRD PARTIES IN ORDER TO CARRY OUT THE PERMITTED PURPOSE.LICENSEE REPRESENTS AND WARRANTS THAT IT WILL CONDUCT ITS OWN DUE DILIGENCE AND SEEK APPROPRIATE LICENSES FROM THIRD PARTIES AS REQUIRED IN ORDER TO PERFORM THE PERMITTED PURPOSE.
 
 INDEMNITY AND LIMITATION OF LIABILITY
 7.1 In no event will University be liable for any losses, costs, claims, damages or liability of any kind whatsoever which may arise from Licensee’s use of the Licensed Work or this Agreement;
