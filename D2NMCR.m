@@ -1,4 +1,4 @@
-function [confidencelimit] = 2D_NMCR(clust_1, clust_2)
+function [confidencelimit] = D2NMCR(clust_1, clust_2)
 
 %Please read LICENSE.md before using, and attribute Michael D. Sorochan Armstrong and Dr. James J. Harynuk
 %
