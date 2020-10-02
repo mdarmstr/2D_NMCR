@@ -7,6 +7,6 @@ To test the 2D_NMCR.m use the following lines of code in a directory containing 
 
 data = generateData(2);
 
-2D_NMCR(data(data(:,3)==1,1:2),data(data(:,3)==2,1:2));
+D2NMCR(data(data(:,3)==1,1:2),data(data(:,3)==2,1:2));
 
 A value for cluster resolution between 0 and 1 should display.
