@@ -3,7 +3,7 @@
 
 Created by Michael D. Sorochan Armstrong and Dr. James J. Harynuk at the University of Alberta
 
-To test the 2D_NMCR.m use the following lines of code in a directory containing generateData.m and 2D_NMCR.m:
+To test the D2NMCR.m use the following lines of code in a directory containing generateData.m and D2NMCR.m:
 
 data = generateData(2);
 
