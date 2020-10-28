@@ -5,12 +5,12 @@ This license agreement (“Agreement”) is by and between The Governors of the 
 Any use, installation, modification, or distribution of the 2D_NMCR.m software in whole or in part constitutes the Licensee’s acceptance of the following terms and conditions of this Agreement.
 
 DEFINTIONS
-a. “Licensed Work” shall mean the 2D_NMCR.m program developed by Michael D. Sorochan Armstrong and Dr. James Harynuk and assigned to the University; as well as all accompanying training materials, future versions and other related information provided in relation to the 2D_NMCR.m program.
+a. “Licensed Work” shall mean the D2NMCR.m program developed by Michael D. Sorochan Armstrong and Dr. James Harynuk and assigned to the University; as well as all accompanying training materials, future versions and other related information provided in relation to the D2NMCR.m program.
 
 b. “Permitted Purpose” shall mean the use of the Licensed Work by Licensee for all non-commercial research purposes that require the Licensee to numerically determine the confidence interval over which two clusters of data may be separated (here defined as Cluster Resolution (CR)).
 
 GRANT OF LICENSE
-Subject to the terms and conditions of this Agreement and effective as of the date the Licensee accesses the 2D_NMCR.m program (“Effective Date”), University hereby grants to Licensee and Licensee hereby accepts a non-exclusive, non-transferrable license to use the Licensed Work for the Permitted Purpose.
+Subject to the terms and conditions of this Agreement and effective as of the date the Licensee accesses the D2NMCR.m program (“Effective Date”), University hereby grants to Licensee and Licensee hereby accepts a non-exclusive, non-transferrable license to use the Licensed Work for the Permitted Purpose.
 
 PROHIBITED USES
 Licensee must not make any other use of the Licensed Work except as provided for in this Agreement or in a separate license agreement with University. In particular, but without limitation, Licensee must not:
@@ -27,7 +27,7 @@ ACKNOWLEDGMENT OF COPYRIGHT
 Licensee acknowledges that the Licensed Work is protected by copyright and other intellectual property rights. Licensee acknowledges that University owns all rights in the Licensed Work.
 
 PUBLICATION
-All publications that are based on or utilize the Licensed work shall be cited appropriately using DOI: 10.5281/zenodo.4064280 and include the following notice: 2D_NMCR.m was created by Michael D. Sorochan Armstrong and Dr. James Harynuk and used here under license from the University of Alberta; based on the original work available from https://github.com/mdarmstr/2D_NMCR.
+All publications that are based on or utilize the Licensed work shall be cited appropriately using DOI: 10.5281/zenodo.4064280 and include the following notice: D2NMCR.m was created by Michael D. Sorochan Armstrong and Dr. James Harynuk and used here under license from the University of Alberta; based on the original work available from https://github.com/mdarmstr/2D_NMCR.
 
 DISCLAIMER OF WARRANTIES
 6.1 Except for the representations and warranties expressly set forth herein, University disclaims all other warranties, expressed or implied. In particular, but without limitation, the Licensed Work is provided by University WITHOUT WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, EITHER EXPRESSED OR IMPLIED.
